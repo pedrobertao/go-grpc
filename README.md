@@ -31,7 +31,7 @@ export PATH=$PATH:./protobuf/bin
 
 # Update code 
 ```
-go get -u github.com/tronprotocol/grpc-gateway
+go get -u github.com/pedrobertao/grpc-gateway
 ```
 
 # Usage
@@ -41,10 +41,10 @@ go get -u github.com/tronprotocol/grpc-gateway
 
 ```
 # download project
-go get -u github.com/tronprotocol/grpc-gateway
+go get -u github.com/pedrobertao/grpc-gateway
 
 # change to project dir
-cd $GOPATH/src/github.com/tronprotocol/grpc-gateway
+cd $GOPATH/src/github.com/pedrobertao/grpc-gateway
 ```
 
 3. (Optional) Generate gRPC stub and reverse-proxy. Make sure you have installed protoc
