@@ -1,4 +1,4 @@
-package: github.com/pedrobertao/grpc-gateway
+package: github.com/pedrobertao/go-grpc
 import:
 - package: github.com/go-resty/resty
 - package: github.com/golang/glog
